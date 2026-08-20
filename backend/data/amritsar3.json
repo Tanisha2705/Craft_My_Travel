@@ -1,0 +1,34 @@
+[
+    {
+      "day": "Day 1: Travel to Amritsar & Golden Temple Visit",
+      "image": "https://images.unsplash.com/photo-1596526131083-394e9c8b4e88?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take an early morning train or flight from Delhi to Amritsar (5–6 hours by train, 1.5 hours by flight).",
+        "Afternoon: Check into your hotel and have lunch at a local Punjabi restaurant.",
+        "Evening: Visit the iconic Golden Temple and experience the serene evening prayer ceremony.",
+        "Night: Enjoy langar (community meal) at the temple or dine at a nearby dhaba."
+      ]
+    },
+    {
+      "day": "Day 2: Jallianwala Bagh, Partition Museum & Wagah Border",
+      "image": "https://images.unsplash.com/photo-1608970511952-7986a1cdafd7?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Jallianwala Bagh and learn about its historical significance.",
+        "Late Morning: Explore the Partition Museum for an emotional insight into India’s past.",
+        "Afternoon: Lunch and relax, then head to the Wagah Border for the Beating Retreat Ceremony (by 3 PM).",
+        "Evening: Witness the patriotic flag-lowering ceremony between India and Pakistan.",
+        "Night: Return to the city and explore Amritsar’s street food scene."
+      ]
+    },
+    {
+      "day": "Day 3: Local Markets & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1608720139510-fbc5352a58e9?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Durgiana Temple and Ram Bagh Gardens.",
+        "Late Morning: Shop for phulkari, juttis, and Amritsari spices in Hall Bazaar or Katra Jaimal Singh.",
+        "Afternoon: Check out from your hotel and head back to Delhi by train or flight.",
+        "Evening: Arrive in Delhi with memories of a soulful trip."
+      ]
+    }
+  ]
+  

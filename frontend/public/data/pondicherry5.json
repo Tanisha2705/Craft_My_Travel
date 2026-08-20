@@ -1,0 +1,51 @@
+[
+    {
+      "day": "Day 1: Delhi to Pondicherry – Arrival & French Colony Walk",
+      "image": "https://images.unsplash.com/photo-1636118575882-81d0e88f4c49?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a flight from Delhi to Chennai, then a 3–4 hour scenic drive to Pondicherry.",
+        "Afternoon: Check-in at a heritage hotel or guesthouse in White Town.",
+        "Evening: Take a leisurely walk in the French Quarter — explore colonial buildings, colorful lanes, and seaside promenades.",
+        "Night: Dinner at a French café or rooftop restaurant."
+      ]
+    },
+    {
+      "day": "Day 2: Beaches, Churches & Cafes",
+      "image": "https://images.unsplash.com/photo-1601637155580-2d92eb76d574?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Promenade Beach and enjoy sunrise views.",
+        "Late Morning: Explore Aurobindo Ashram and nearby Manakula Vinayagar Temple.",
+        "Afternoon: Visit Basilica of the Sacred Heart of Jesus and do some café hopping in White Town.",
+        "Evening: Shop at local boutiques for handmade products and Auroville crafts."
+      ]
+    },
+    {
+      "day": "Day 3: Auroville Day Trip",
+      "image": "https://images.unsplash.com/photo-1635186641034-62e1d3cfb3f5?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a trip to Auroville (approx. 30 minutes from Pondicherry).",
+        "Late Morning: Visit the Matrimandir (outer viewing) and explore Auroville’s eco-village and art centers.",
+        "Afternoon: Try organic meals at Auroville’s cafes and shop for handmade goods.",
+        "Evening: Return to Pondicherry and relax near Rock Beach."
+      ]
+    },
+    {
+      "day": "Day 4: Serenity Beach & Water Sports",
+      "image": "https://images.unsplash.com/photo-1620549732898-b0b328fdcb13?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Head to Serenity Beach for sunrise and optional surfing lessons.",
+        "Afternoon: Visit Paradise Beach via boat ride and enjoy sunbathing or beach volleyball.",
+        "Evening: Explore local seafood joints or try a sunset cruise (seasonal)."
+      ]
+    },
+    {
+      "day": "Day 5: Local Markets & Departure to Delhi",
+      "image": "https://images.unsplash.com/photo-1638592663859-1bc8f176f9e4?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Enjoy breakfast at a beachside café and stroll through Goubert Market for souvenirs.",
+        "Late Morning: Check out from hotel and start your journey back to Chennai Airport.",
+        "Evening: Fly back to Delhi with colorful memories of Pondicherry."
+      ]
+    }
+  ]
+  

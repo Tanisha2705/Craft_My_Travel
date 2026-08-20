@@ -1,0 +1,161 @@
+import React, { useState, ChangeEvent, FormEvent } from 'react';
+import { useNavigate } from 'react-router-dom';
+import api from '../axios';
+import { Eye, EyeOff, Mail, Lock, Plane } from 'lucide-react';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+
+interface LoginForm {
+  email: string;
+  password: string;
+}
+
+const fieldWrap = 'relative';
+const inputClass =
+  'w-full border border-gray-200 bg-gray-50 rounded-xl pl-11 pr-4 py-3 text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-pink-400 focus:bg-white transition';
+const iconClass = 'absolute left-3.5 top-1/2 -translate-y-1/2 text-gray-400';
+
+const LoginPage: React.FC = () => {
+  const navigate = useNavigate();
+  const [showPassword, setShowPassword] = useState(false);
+  const [formData, setFormData] = useState<LoginForm>({ email: '', password: '' });
+  const [error, setError] = useState<string>('');
+  const [submitting, setSubmitting] = useState(false);
+
+  const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+    const { name, value } = e.target;
+    setFormData((prev) => ({ ...prev, [name]: value }));
+  };
+
+  const handleLogin = async (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const { email, password } = formData;
+
+    if (!email || !password) {
+      setError('Please fill in both fields.');
+      return;
+    }
+
+    setSubmitting(true);
+    setError('');
+
+    try {
+      const response = await api.post('/login', { email, password });
+
+      if (response.data.token) {
+        localStorage.setItem('token', response.data.token);
+        localStorage.setItem('user', JSON.stringify(response.data.user));
+
+        const user = response.data.user;
+        navigate(user.is_admin ? '/admin' : '/itinerary');
+      } else {
+        setError('Invalid response from server, token missing.');
+      }
+    } catch (err: any) {
+      if (err.code === 'ERR_NETWORK') {
+        setError('Could not reach the server. Is the backend running?');
+      } else {
+        setError(err.response?.data?.error || 'Login failed. Please check your credentials.');
+      }
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  return (
+    <div className="min-h-screen flex flex-col bg-gradient-to-b from-navy-900 to-blue-900">
+      <Navbar />
+
+      <div className="flex-1 flex items-center justify-center p-4 md:p-10">
+        <div className="w-full max-w-4xl bg-white rounded-3xl shadow-2xl overflow-hidden grid md:grid-cols-2">
+          {/* Left: imagery / brand panel */}
+          <div
+            className="hidden md:flex flex-col justify-between p-10 text-white bg-cover bg-center relative"
+            style={{
+              backgroundImage:
+                "linear-gradient(to bottom, rgba(27,31,59,0.75), rgba(236,72,153,0.55)), url('https://images.unsplash.com/photo-1500835556837-99ac94a94552?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80')",
+            }}
+          >
+            <div className="flex items-center space-x-2">
+              <Plane className="h-7 w-7" />
+              <span className="text-lg font-bold">CraftMyTravel</span>
+            </div>
+            <div>
+              <h2 className="text-3xl font-bold mb-3 leading-snug">Welcome back, traveller.</h2>
+              <p className="text-white/80">
+                Log in to pick up where you left off and keep planning your next trip.
+              </p>
+            </div>
+          </div>
+
+          {/* Right: form */}
+          <div className="p-8 md:p-10 flex flex-col justify-center">
+            <h2 className="text-2xl font-bold mb-1">Log in</h2>
+            <p className="text-gray-500 mb-8">Welcome back! Enter your details.</p>
+
+            <form className="space-y-4" onSubmit={handleLogin}>
+              <div className={fieldWrap}>
+                <Mail size={18} className={iconClass} />
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="Email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  className={inputClass}
+                />
+              </div>
+              <div className={fieldWrap}>
+                <Lock size={18} className={iconClass} />
+                <input
+                  type={showPassword ? 'text' : 'password'}
+                  name="password"
+                  placeholder="Password"
+                  value={formData.password}
+                  onChange={handleChange}
+                  className={inputClass + ' pr-11'}
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowPassword(!showPassword)}
+                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                >
+                  {showPassword ? <EyeOff size={18} /> : <Eye size={18} />}
+                </button>
+              </div>
+
+              {error && (
+                <div className="text-red-500 text-sm bg-red-50 border border-red-100 rounded-lg px-3 py-2">
+                  {error}
+                </div>
+              )}
+
+              <button
+                type="submit"
+                disabled={submitting}
+                className="w-full bg-pink-500 text-white font-semibold py-3 rounded-xl hover:bg-pink-600 focus:outline-none focus:ring-2 focus:ring-pink-300 transition disabled:opacity-60"
+              >
+                {submitting ? 'Logging in...' : 'Log in'}
+              </button>
+            </form>
+
+            <div className="mt-6 text-center text-sm">
+              <span className="text-gray-500">Don't have an account? </span>
+              <button onClick={() => navigate('/signup')} className="text-pink-600 hover:text-pink-700 font-medium">
+                Sign up
+              </button>
+            </div>
+
+            <div className="mt-4 text-center text-xs text-gray-400">
+              Demo admin login: admin@craftmytravel.com / admin123
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <Footer />
+    </div>
+  );
+};
+
+export default LoginPage;

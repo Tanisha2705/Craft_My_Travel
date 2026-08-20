@@ -1,0 +1,48 @@
+[
+    {
+      "day": "Day 1: Travel from Delhi to Goa – Arrival & Beach Walk",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a flight from Delhi to Goa (approx. 2.5–3 hours).",
+        "Afternoon: Arrive in Goa, check into your beachside hotel in North Goa.",
+        "Evening: Enjoy a sunset walk on Calangute or Baga Beach followed by dinner at a seaside shack."
+      ]
+    },
+    {
+      "day": "Day 2: North Goa Exploration – Forts & Nightlife",
+      "image": "https://images.unsplash.com/photo-1704499684187-03dbbed7e4cc?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Aguada Fort and Chapora Fort for breathtaking sea views and history.",
+        "Afternoon: Relax at Vagator or Anjuna Beach; enjoy local seafood at a beach café.",
+        "Evening: Explore the vibrant nightlife at Tito’s Lane or Club Cabana."
+      ]
+    },
+    {
+      "day": "Day 3: South Goa – Serenity & Heritage",
+      "image": "https://images.unsplash.com/photo-1718275520594-8bb2d4fae9f0?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Drive to South Goa and explore the peaceful Palolem or Colva Beach.",
+        "Afternoon: Visit Cabo de Rama Fort or the Basilica of Bom Jesus in Old Goa.",
+        "Evening: Enjoy a quiet sunset at Betalbatim Beach and have dinner at Martin's Corner or a local Goan eatery."
+      ]
+    },
+    {
+      "day": "Day 4: Adventure Activities & Spice Plantation Tour",
+      "image": "https://images.unsplash.com/photo-1542319280-cc25b7f3f515?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Indulge in water sports at Calangute Beach – parasailing, banana boat ride, jet skiing.",
+        "Afternoon: Visit a spice plantation near Ponda for a guided tour and traditional Goan lunch.",
+        "Evening: Relax with a beachside bonfire or enjoy live music at a shack."
+      ]
+    },
+    {
+      "day": "Day 5: Shopping & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1671468158353-4e2b0c789f6a?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Explore the local markets – Anjuna Flea Market or Mapusa Market for souvenirs and boho clothes.",
+        "Afternoon: Check out from your hotel and transfer to Goa airport.",
+        "Evening: Take a return flight to Delhi with memories of sun, sand, and sea."
+      ]
+    }
+  ]
+  

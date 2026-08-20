@@ -1,0 +1,66 @@
+[
+    {
+      "day": "Day 1: Travel from Delhi to Goa – Arrival & Beachside Relaxation",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a direct flight from Delhi to Goa.",
+        "Afternoon: Arrive and check in to your hotel/resort near Baga or Calangute Beach.",
+        "Evening: Relax by the beach, enjoy a sunset walk, and dine at a beach shack."
+      ]
+    },
+    {
+      "day": "Day 2: North Goa – Forts, Churches & Nightlife",
+      "image": "https://images.unsplash.com/photo-1718275520594-8bb2d4fae9f0?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Explore Aguada Fort and Chapora Fort for scenic views.",
+        "Afternoon: Visit the historic St. Alex Church in Calangute and relax at Anjuna Beach.",
+        "Evening: Experience Goa’s nightlife at Club Tito’s or Café Mambo."
+      ]
+    },
+    {
+      "day": "Day 3: South Goa – Peaceful Beaches & Portuguese Vibes",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Head to South Goa and unwind at Palolem Beach.",
+        "Afternoon: Visit Cabo de Rama Fort and enjoy the silence of Butterfly Beach.",
+        "Evening: Sunset dinner at a beach café like Salcete Beach Shack or Martin's Corner."
+      ]
+    },
+    {
+      "day": "Day 4: Old Goa & Spice Plantation Tour",
+      "image": "https://images.unsplash.com/photo-1584697964184-c07f3c5818e7?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Old Goa’s UNESCO churches – Basilica of Bom Jesus, Se Cathedral.",
+        "Afternoon: Explore a spice plantation near Ponda with a traditional Goan lunch.",
+        "Evening: Return to hotel and relax or stroll through Fontainhas (Latin Quarter)."
+      ]
+    },
+    {
+      "day": "Day 5: Adventure Day – Water Sports & Dolphin Cruise",
+      "image": "https://images.unsplash.com/photo-1635085894303-ef47b68fc5c9?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Go parasailing, jet skiing, and banana boat riding at Calangute or Candolim.",
+        "Afternoon: Enjoy a dolphin-watching cruise along the Arabian Sea.",
+        "Evening: Free time to explore local cafés or get a relaxing massage at the spa."
+      ]
+    },
+    {
+      "day": "Day 6: Island Hopping & Cultural Evening",
+      "image": "https://images.unsplash.com/photo-1573566472937-1d5d9cde3b4c?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a boat tour to Grand Island for snorkeling or scuba diving.",
+        "Afternoon: Enjoy BBQ lunch on the island beach and swim in clear waters.",
+        "Evening: Attend a Goan folk dance show or beachside live music performance."
+      ]
+    },
+    {
+      "day": "Day 7: Shopping & Departure to Delhi",
+      "image": "https://images.unsplash.com/photo-1578909196400-45c6f1d28d02?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Shop for souvenirs at Anjuna Flea Market or Mapusa Market.",
+        "Afternoon: Check out from hotel and head to the airport.",
+        "Evening: Fly back to Delhi with unforgettable memories of Goa."
+      ]
+    }
+  ]
+  

@@ -1,0 +1,39 @@
+[
+    {
+      "day": "Day 1: Travel from Delhi to Jaipur & Cultural Welcome",
+      "image": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Leave early from Delhi to Jaipur via car or train (approx. 5–6 hours).",
+        "Afternoon: Check into your hotel and relax. Enjoy Rajasthani snacks like pyaaz kachori or mirchi vada.",
+        "Evening: Visit Chokhi Dhani for a traditional Rajasthani village experience, folk dances, and authentic dinner."
+      ]
+    },
+    {
+      "day": "Day 2: Jaipur’s Iconic Forts & Palaces",
+      "image": "https://images.unsplash.com/photo-1586356307549-32c0684da5e0?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Amber Fort and enjoy views of Maota Lake. Explore Sheesh Mahal and Diwan-e-Aam.",
+        "Afternoon: Head to Jaigarh Fort and Nahargarh Fort for panoramic city views.",
+        "Evening: Stop by Jal Mahal for a sunset photo and lakeside walk. Enjoy dinner at a rooftop café."
+      ]
+    },
+    {
+      "day": "Day 3: Heritage Walk & Local Markets",
+      "image": "https://images.unsplash.com/photo-1683743116592-e096da58bc66?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Explore City Palace and visit Jantar Mantar, an astronomical marvel.",
+        "Afternoon: Visit Hawa Mahal and nearby local shops for handicrafts and block-printed clothes.",
+        "Evening: Stroll through Johari Bazaar and Bapu Bazaar for souvenirs. Enjoy local street food like ghewar and kulfi falooda."
+      ]
+    },
+    {
+      "day": "Day 4: Museums, Gardens & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1681642153169-e5daa77025da?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Albert Hall Museum and take a peaceful walk in Ram Niwas Garden.",
+        "Afternoon: Try a Rajasthani thali at a local restaurant. Relax with some café time or explore Central Park.",
+        "Evening: Start your journey back to Delhi with beautiful memories of Jaipur."
+      ]
+    }
+  ]
+  

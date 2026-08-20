@@ -1,0 +1,30 @@
+[
+    {
+      "day": "Day 1: Travel from Delhi to Jaipur & Explore Local Markets",
+      "image": "https://images.unsplash.com/photo-1683743116592-e096da58bc66?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Depart from Delhi early by car or train (approx. 5-6 hrs journey).",
+        "Afternoon: Check into your hotel in Jaipur and rest briefly.",
+        "Evening: Visit local markets like Johari Bazaar and Bapu Bazaar for traditional Rajasthani jewelry, textiles, and handicrafts."
+      ]
+    },
+    {
+      "day": "Day 2: Historical Forts & Royal Heritage",
+      "image": "https://images.unsplash.com/photo-1671727337717-d2c641eda1d8?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit the majestic Amber Fort and enjoy an optional elephant ride or jeep ride to the fort entrance.",
+        "Afternoon: Explore the City Palace and Jantar Mantar — UNESCO World Heritage Site known for its astronomical instruments.",
+        "Evening: Stop by Hawa Mahal (Palace of Winds) for photos and enjoy a traditional Rajasthani dinner at a heritage restaurant."
+      ]
+    },
+    {
+      "day": "Day 3: Culture, Cafés & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1669043962012-a5b8496cd664?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Albert Hall Museum or stroll through the serene Central Park for a relaxed start to the day.",
+        "Afternoon: Have lunch at a rooftop café with views of Nahargarh Fort or Jal Mahal (Water Palace).",
+        "Evening: Begin your return journey to Delhi with memories of Jaipur’s royal charm."
+      ]
+    }
+  ]
+  

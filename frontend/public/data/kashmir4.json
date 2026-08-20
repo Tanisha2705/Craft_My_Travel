@@ -1,0 +1,42 @@
+[
+    {
+      "day": "Day 1: Delhi to Srinagar – Arrival & Dal Lake",
+      "image": "https://images.unsplash.com/photo-1582880098132-f46ecb71a34c?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Fly from Delhi to Srinagar (approx. 1.5 hours).",
+        "Afternoon: Check into your houseboat or hotel and enjoy lunch with mountain views.",
+        "Evening: Go for a peaceful Shikara ride on Dal Lake and explore the floating market.",
+        "Night: Enjoy traditional Kashmiri cuisine and relax by the lake."
+      ]
+    },
+    {
+      "day": "Day 2: Gulmarg – Snow Adventure & Gondola Ride",
+      "image": "https://images.unsplash.com/photo-1579338559194-dfc99aefeec1?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Drive to Gulmarg (approx. 2 hours), a snowy paradise for adventure lovers.",
+        "Late Morning: Take the Gondola cable car ride to Phase 1 or Phase 2 for stunning views.",
+        "Afternoon: Enjoy skiing, snowboarding, or snowball fun depending on the season.",
+        "Evening: Return to Srinagar and rest at your hotel or stroll the local markets."
+      ]
+    },
+    {
+      "day": "Day 3: Pahalgam – Valleys, Rivers & Pine Forests",
+      "image": "https://images.unsplash.com/photo-1600840231797-6d1dcbd66b46?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Depart for Pahalgam (approx. 2.5–3 hours), the 'Valley of Shepherds'.",
+        "Afternoon: Visit Betaab Valley, Aru Valley, or take a pony ride along the Lidder River.",
+        "Evening: Enjoy the sunset views and a calm evening in nature before heading back to Srinagar."
+      ]
+    },
+    {
+      "day": "Day 4: Srinagar Sightseeing & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1624983774266-bd26c4d71df8?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Mughal Gardens – Nishat Bagh, Shalimar Bagh, and Chashme Shahi.",
+        "Late Morning: Explore Shankaracharya Temple for panoramic views of Srinagar.",
+        "Afternoon: Do some last-minute shopping for Pashmina shawls, saffron, or dry fruits.",
+        "Evening: Fly back to Delhi with a heart full of Kashmir’s beauty."
+      ]
+    }
+  ]
+  

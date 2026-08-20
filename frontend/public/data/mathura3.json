@@ -1,0 +1,32 @@
+[
+    {
+      "day": "Day 1: Journey from Delhi to Mathura & Krishna Janmabhoomi",
+      "image": "https://images.unsplash.com/photo-1740378287064-b96166591f87?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Depart from Delhi to Mathura by car/train (approx. 3–4 hours).",
+        "Late Morning: Check into your hotel and rest briefly.",
+        "Afternoon: Visit Shri Krishna Janmabhoomi Temple – the sacred birthplace of Lord Krishna.",
+        "Evening: Explore Dwarkadhish Temple, and enjoy the vibrant evening aarti at Vishram Ghat."
+      ]
+    },
+    {
+      "day": "Day 2: Vrindavan – Spiritual Trails & Temple Hopping",
+      "image": "https://images.unsplash.com/photo-1574313884751-84fd8b20c919?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Travel to Vrindavan (20 mins from Mathura) and visit the iconic Banke Bihari Temple for morning darshan.",
+        "Late Morning: Explore ISKCON Temple (Krishna Balaram Mandir) and relax in its serene premises.",
+        "Afternoon: Visit Radha Raman Temple and enjoy a simple sattvic meal at Govinda’s restaurant.",
+        "Evening: Admire the beautifully lit Prem Mandir, known for its intricate marble work and light show."
+      ]
+    },
+    {
+      "day": "Day 3: Govardhan Excursion & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1708191447145-f8358df74604?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a short drive to Govardhan Hill. Do a partial or full parikrama and visit Govardhan Temple.",
+        "Afternoon: Visit Radha Kund and Kusum Sarovar for a quiet spiritual experience.",
+        "Evening: Return to Mathura, have an early dinner, and begin your return journey to Delhi."
+      ]
+    }
+  ]
+  

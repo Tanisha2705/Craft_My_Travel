@@ -1,0 +1,51 @@
+[
+    {
+      "day": "Day 1: Delhi to Srinagar – Arrival & Dal Lake",
+      "image": "https://images.unsplash.com/photo-1582880098132-f46ecb71a34c?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Fly from Delhi to Srinagar (approx. 1.5 hours).",
+        "Afternoon: Check-in to your hotel or houseboat and enjoy lunch with a view.",
+        "Evening: Shikara ride on Dal Lake and explore the floating gardens and market.",
+        "Night: Try authentic Kashmiri Wazwan cuisine for dinner."
+      ]
+    },
+    {
+      "day": "Day 2: Gulmarg – Gondola Ride & Snow Activities",
+      "image": "https://images.unsplash.com/photo-1579338559194-dfc99aefeec1?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Drive to Gulmarg (approx. 2 hours) – a winter sports hub.",
+        "Late Morning: Ride the Gulmarg Gondola to Phase 1 or 2 for breathtaking mountain views.",
+        "Afternoon: Enjoy skiing, snowboarding, or snow play depending on the season.",
+        "Evening: Return to Srinagar for overnight stay."
+      ]
+    },
+    {
+      "day": "Day 3: Pahalgam – Valleys & River Views",
+      "image": "https://images.unsplash.com/photo-1600840231797-6d1dcbd66b46?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Travel to Pahalgam (approx. 3 hours), famous for its scenic beauty.",
+        "Afternoon: Visit Betaab Valley, Aru Valley, and enjoy a walk along the Lidder River.",
+        "Evening: Option for a pony ride or relax in pine-covered surroundings before returning to Srinagar."
+      ]
+    },
+    {
+      "day": "Day 4: Sonamarg – Meadows & Glaciers",
+      "image": "https://images.unsplash.com/photo-1607354313050-3ae121fa04bb?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Day trip to Sonamarg (approx. 2.5 hours), known as the 'Meadow of Gold'.",
+        "Afternoon: Visit Thajiwas Glacier via pony ride or short trek (seasonal availability).",
+        "Evening: Return to Srinagar and enjoy shopping in the local markets for saffron, pashmina, and handicrafts."
+      ]
+    },
+    {
+      "day": "Day 5: Srinagar Local Tour & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1624983774266-bd26c4d71df8?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit Mughal Gardens – Nishat Bagh, Shalimar Bagh, and Chashme Shahi.",
+        "Late Morning: Stop by Shankaracharya Temple for panoramic views of Srinagar.",
+        "Afternoon: Enjoy a final Kashmiri lunch, shop for souvenirs, and check out.",
+        "Evening: Fly back to Delhi with unforgettable memories."
+      ]
+    }
+  ]
+  

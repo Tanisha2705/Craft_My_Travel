@@ -1,0 +1,39 @@
+[
+    {
+      "day": "Day 1: Departure from Delhi – Scenic Journey Begins",
+      "image": "https://images.unsplash.com/photo-1732120600571-9e020059e591?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Start your journey early from Delhi by a private cab or Volvo bus toward Manali (approx. 12–14 hrs).",
+        "Afternoon: Enjoy views of the Himalayas, river valleys, and pine forests along the way. Stop at roadside dhabas for meals.",
+        "Evening: Reach Manali late evening or night. Check into your hotel and get some rest."
+      ]
+    },
+    {
+      "day": "Day 2: Discover Manali’s Culture & Nature",
+      "image": "https://images.unsplash.com/photo-1570464282330-6673306f328a?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Visit the Museum of Himachal Culture and Folk Art and the Tibetan Monastery for cultural immersion.",
+        "Afternoon: Enjoy a nature walk through Van Vihar, a tranquil park near the Beas River with tall deodar trees and paddle boating.",
+        "Evening: Explore Mall Road at sunset, enjoy momos or thukpa, and shop for woolens, handicrafts, and souvenirs."
+      ]
+    },
+    {
+      "day": "Day 3: Day Trip to Naggar & Art Exploration",
+      "image": "https://images.unsplash.com/photo-1637911137128-61b5d339689c?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Take a short drive to Naggar Castle, a beautiful heritage structure with wood and stone architecture.",
+        "Afternoon: Visit the Nicholas Roerich Art Gallery, showcasing paintings of the Himalayas and Russian artist Roerich's legacy.",
+        "Evening: Stop by Jana Waterfall for a peaceful break, and try local Himachali cuisine at a village eatery on the way back."
+      ]
+    },
+    {
+      "day": "Day 4: Morning Hike & Return to Delhi",
+      "image": "https://images.unsplash.com/photo-1616843171572-3034f6de1f9d?auto=format&fit=crop&q=80&w=400",
+      "activities": [
+        "Morning: Embark on a short hike to Jogini Waterfall, a serene spot with panoramic views. Carry snacks and enjoy a peaceful break.",
+        "Afternoon: Return to hotel, pack up, and check out.",
+        "Evening: Start your journey back to Delhi via Volvo or cab, arriving late night or early next day."
+      ]
+    }
+  ]
+  

@@ -1,0 +1,46 @@
+[
+  {
+    "day": "Day 1: Arrival in Delhi & Travel to Manali",
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&q=80&w=400",
+    "activities": [
+      "Morning: Arrive in Delhi and relax for a while.",
+      "Afternoon: Begin your journey to Manali by private vehicle or take an overnight Volvo bus.",
+      "Evening: Overnight journey to Manali (if traveling by bus or car)."
+    ]
+  },
+  {
+    "day": "Day 2: Arrival in Manali",
+    "image": "https://images.unsplash.com/photo-1697107744278-02303cb97031?q=80&w=400&auto=format&fit=crop",
+    "activities": [
+      "Morning: Reach Manali in the morning, check into your hotel, and freshen up.",
+      "Afternoon: Take a leisurely walk around Mall Road, explore local shops, cafes, and the beautiful surroundings.",
+      "Evening: Relax and enjoy dinner at a local restaurant."
+    ]
+  },
+  {
+    "day": "Day 3: Solang Valley and Rohtang Pass",
+    "image": "https://images.unsplash.com/photo-1516901121982-4ba280115a36?auto=format&fit=crop&q=80&w=400",
+    "activities": [
+      "Morning: Head to Solang Valley for adventure activities such as paragliding, zorbing, or skiing.",
+      "Afternoon: Visit the famous Rohtang Pass (open seasonally), offering stunning views and snow activities.",
+      "Evening: Return to Manali and relax."
+    ]
+  },
+  {
+    "day": "Day 4: Explore Local Attractions",
+    "image": "https://images.unsplash.com/photo-1514896856000-91cb6de818e0?auto=format&fit=crop&q=80&w=400",
+    "activities": [
+      "Morning: Visit Hadimba Temple, a peaceful and scenic spot nestled in the forest.",
+      "Afternoon: Explore Manu Temple, or visit Vashisht Baths for a rejuvenating hot spring bath.",
+      "Evening: Stroll along the Beas River or visit Old Manali for a relaxed vibe."
+    ]
+  },
+  {
+    "day": "Day 5: Return to Delhi",
+    "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&q=80&w=400",
+    "activities": [
+      "Morning: After breakfast, check out of your hotel and travel back to Delhi.",
+      "Evening: Arrive in Delhi by evening/night, and your trip concludes."
+    ]
+  }
+]
