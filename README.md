@@ -19,7 +19,7 @@ signup/login and an admin dashboard for managing users.
 |---|---|
 | **Landing Page** <br> ![Landing page](screenshots/Landing_Page.png) | **Plan Your Trip** <br> ![Plan your trip](screenshots/Form.png) |
 | **Preferences** <br> ![Preferences](screenshots/Preferences.png) | **Generated Schedule** <br> ![Schedule](screenshots/Schedule.png) |
-| **Login / Sign Up** <br> ![Auth](screenshots/Login.png) | **Admin Dashboard** <br> ![Admin](screenshots/admin.png) |
+| **Login / Sign Up** <br> ![Auth](screenshots/login.png) | **Admin Dashboard** <br> ![Admin](screenshots/Admin.png) |
 
 ---
 
